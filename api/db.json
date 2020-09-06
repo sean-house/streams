@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Stream 4",
+      "description": "Stream desc 4",
+      "id": 4
+    },
+    {
+      "title": "Dark Knight Rises",
+      "description": "The beginning of the dark knight tale",
+      "id": 5
+    },
+    {
+      "title": "Batman Begins",
+      "description": "Batman starts his nocturnal activities",
+      "userId": "100782510718484280975",
+      "id": 6
+    },
+    {
+      "title": "9 1/2 weeks",
+      "description": "With Kim Basinger",
+      "userId": "100782510718484280975",
+      "id": 7
+    }
+  ]
+}
